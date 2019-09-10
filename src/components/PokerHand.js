@@ -10,7 +10,7 @@ function PokerHand(props){
         )
     })
     return(
-        <div className="poker-hand col-sm-2">
+        <div className="poker-hand col-sm-12">
             {hand}
         </div>  
     )
